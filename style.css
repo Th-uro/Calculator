@@ -5,7 +5,7 @@
 }
 
 .back-part {
-  background-image: linear-gradient(45deg, black, crimson);
+  background-image: linear-gradient(45deg, rgb(6, 205, 240), rgb(24, 51, 59));
   height: 100vh;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
@@ -14,13 +14,14 @@
 
 #result {
   background-color: white;
-  width: 207px;
+  width: 225px;
   height: 35px;
   margin: 5px;
   font-size: 25px;
   color: black;
   text-align: right;
   padding: 5px;
+  border-radius: 5px;
 }
 
 .calculator {
